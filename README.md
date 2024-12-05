@@ -34,22 +34,21 @@ Here are the technologies and tools I use to bring ideas to life:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdul-rohman-maulidhi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rohman-maulidhi&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📬 Get In Touch
 
-- 🌐 **Portfolio:** [Your Portfolio Link](https://yourportfolio.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/abdul-rohman-maulidhi)
-- 📧 **Email:** [Your Email Address](mailto:your.email@example.com)
+- 🌐 **Portfolio:** [My Portfolio (Soon)](none)
+- 💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/abdul-rohman-maulidhi)
+- 📧 **Email:** [Email](rohmanmaulidhi@gmail.com)
 
 ---
 
 ## ⚡ Fun Fact
 
-When I'm not coding, you can find me exploring nature 🌳, playing chess ♟️, or diving into the world of science fiction 📚.
+When I'm not coding, you can find me exploring nature 🌳, playing games ♟️, or diving into the world of science fiction 📚.
 
 ---
 
